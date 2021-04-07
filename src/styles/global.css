@@ -1,0 +1,12 @@
+.order-changer {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+/* The styles below are not important for showcasing the issue */
+.premature-render-trigger {
+  word-break: break-word;
+}
+.premature-render-trigger > li {
+  display: inline;
+}
