@@ -101,3 +101,8 @@ Machine #2
     gatsby-source-filesystem: ^3.2.0 => 3.2.0
 ```
 
+### Lighthouse Reports
+
+[![Lighthouse report with no CLS](lighthouse-reports/no-cls.png)](lighthouse-reports/no-cls.html)
+
+[![Lighthouse report with CLS](lighthouse-reports/cls.png)](lighthouse-reports/cls.html)
